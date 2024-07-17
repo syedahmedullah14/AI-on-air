@@ -167,13 +167,9 @@ To test the Stripe payments/subscriptions functionality, you can use the followi
 You can also use the [Stripe Test Cards](https://docs.stripe.com/testing#cards) for more test card details.
 
 
-## <a name="license">📚 License</a>
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
-
 ## <a name="contact">📞 Contact</a>
 
-If you have any queries or feedback, please feel free to reach out to me at my [email](mailto:mandeeparora132@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/deepsingh132/).
+If you have any queries or feedback, please feel free to reach out to me at my [email](mailto:syedahmedullahjaser@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedullahsyed/).
 
 <br />
 <br />
